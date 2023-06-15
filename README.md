@@ -30,7 +30,7 @@ Since the repository is closed, you should do the following
 2. paste the following piece of code 
 ``` Dart
   dependencies:
-    packageA:
+    alt_point_components:
       git:
         url: https://github.com/vinnikpuhh/alt_point_components.git
 
