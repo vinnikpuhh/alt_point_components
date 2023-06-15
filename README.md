@@ -32,7 +32,7 @@ Since the repository is closed, you should do the following
   dependencies:
     packageA:
       git:
-        url: https://github.com/vinnikpuhh/components.git
+        url: https://github.com/vinnikpuhh/alt_point_components.git
 
 ```
 3. run pub get 
